@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/priceless-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Priceless Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/priceless-love/) |
+| **Get License** | [Get a Licensing Quote for Priceless Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/priceless-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1771)
 
 ---
 
