@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/priceless-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Priceless Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/priceless-love/) |
+| **Get License** | [Music Rights & Licensing for Priceless Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/priceless-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6a2097fe54ce325ed8c75bfdf092dced5802899a7d5d3635e3eb02367bedf037` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
