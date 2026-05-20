@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/priceless-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Priceless Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/priceless-love/) |
+| **Get License** | [Request Licensing for Priceless Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/priceless-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan chon dulda nasha ni crazy kar gaya mainu
+> Lakk patla te adaavaan my soul tarse tenu
+> Dhadkan meri tu out of control hai kitti
+> Aaja nede mere baby ban ja hun meri
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
